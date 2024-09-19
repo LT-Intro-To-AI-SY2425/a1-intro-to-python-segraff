@@ -19,6 +19,8 @@ The python programming language is very efficient and I like how I don't have to
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-One similarity between python and java is that both are object oriented. One difference is that
+One similarity between python and java is that both are examples of object oriented programming and you can create loops in both. One difference is the syntax. Python uses indentation, making it easier to read, while java uses curly brackets and semicolons.
 
 3. What are some things that you learned through this assignment?
+
+Some things that I learned through this assignment were how to slice strings in python, and how to correctly indent my code so that it doesn't have errors. 
