@@ -14,10 +14,11 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 1. What is your initial thoughts about the python programming language?
 
+The python programming language is very efficient and I like how I don't have to add a semicolon after each line of code.
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-
+One similarity between python and java is that both are object oriented. One difference is that
 
 3. What are some things that you learned through this assignment?
